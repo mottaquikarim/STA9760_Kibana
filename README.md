@@ -27,3 +27,8 @@ docker-compose run pyth python citibike.py
 
 This will load citibike dock data into Elasticsearch at a cadence of once / 30s.
 
+Shutting off:
+
+```
+docker-compose down
+```
