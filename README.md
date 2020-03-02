@@ -2,6 +2,8 @@
 
 Kibana docker compose example. **[Dataset used](https://feeds.citibikenyc.com/stations/stations.jso)**
 
+![scrnshot](https://raw.githubusercontent.com/mottaquikarim/STA9760_Kibana/master/Screen%20Shot%202020-03-02%20at%2012.26.53%20AM.png)
+
 ## [Tutorial](https://www.youtube.com/watch?v=9Mkf6kHroG8&feature=youtu.be)
 
 ## How to Run
